@@ -1,5 +1,5 @@
 #tests/test_raiz_cuadrada.py
-from funciones.raiz_cuadrada import raiz_cuadrada
+from funciones.raizcuadradaacosta import raiz_cuadrada
 
 def test_raiz_cuadrada():
     assert raiz_cuadrada(9) == 3
